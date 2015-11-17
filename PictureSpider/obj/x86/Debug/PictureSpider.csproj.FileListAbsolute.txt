@@ -1,0 +1,29 @@
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\bin\Debug\PictureSpider.exe
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\bin\Debug\PictureSpider.pdb
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.SpiderForm.resources
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.Properties.Resources.resources
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.csproj.GenerateResource.Cache
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.exe
+c:\users\yc\documents\visual studio 2010\Projects\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.pdb
+I:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.exe
+I:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.pdb
+I:\PictureSpider\PictureSpider\bin\Debug\PictureSpider.exe
+I:\PictureSpider\PictureSpider\bin\Debug\PictureSpider.pdb
+I:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.SpiderForm.resources
+I:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.Properties.Resources.resources
+I:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.csproj.GenerateResource.Cache
+E:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.exe
+E:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.pdb
+E:\PictureSpider\PictureSpider\bin\Debug\PictureSpider.exe
+E:\PictureSpider\PictureSpider\bin\Debug\PictureSpider.pdb
+E:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.SpiderForm.resources
+E:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.Properties.Resources.resources
+E:\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.csproj.GenerateResource.Cache
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.exe
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.pdb
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.SpiderForm.resources
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.Properties.Resources.resources
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.csproj.GenerateResource.Cache
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\bin\Debug\PictureSpider.exe
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\bin\Debug\PictureSpider.pdb
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Debug\PictureSpider.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\bin\Release\PictureSpider.exe
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\bin\Release\PictureSpider.pdb
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.SpiderForm.resources
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.Properties.Resources.resources
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.csproj.GenerateResource.Cache
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.exe
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.pdb
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.exe
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.pdb
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\bin\Release\PictureSpider.exe
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\bin\Release\PictureSpider.pdb
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.SpiderForm.resources
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.Properties.Resources.resources
+C:\Users\yc\OneDrive\Documents\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.csproj.GenerateResource.Cache
+C:\Users\yc\Desktop\PictureSpider\PictureSpider\obj\x86\Release\PictureSpider.csprojResolveAssemblyReference.cache
